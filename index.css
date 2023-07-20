@@ -1,0 +1,54 @@
+.background{
+    background-color: white;
+    height: 220vh;
+   
+}
+.background-color{
+    background-color: rgba(212, 210, 210, 0.808);
+    height: 220vh;
+    
+    
+    
+}
+h1{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding-top: 40px;
+}
+p{
+    font-size: 10px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    
+}
+#secod-background{
+    background-color: white;
+    height: 80vh;
+    
+}
+.imgeas{
+    height: 60vh;
+    width: 40vw;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;
+   
+}
+.paragerph{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    font-weight: bold;  
+    text-align: center;
+    padding-top: 30px;
+}
